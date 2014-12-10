@@ -2,7 +2,7 @@
 #Daniel Ogunlana
 #09/12/2014
 
-shopping_list = []
+shopping_list = [""]
 finished = False
 while not finished:
     shopping_item = input("Enter next item (-1 to end list): ")
