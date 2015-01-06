@@ -2,7 +2,11 @@
 #Daniel Ogunlana
 #09/12/2014
 
+<<<<<<< HEAD
 shopping_list = [0]
+=======
+shopping_list = [""]
+>>>>>>> branch 'master' of https://github.com/DanielOjo/Lists.git
 finished = False
 while not finished:
     shopping_item = input("Enter next item (-1 to end list): ")
